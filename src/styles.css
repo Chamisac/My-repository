@@ -51,3 +51,10 @@ h6 {
 .tempRange {
   font-size: 12px;
 }
+
+footer {
+  font-size: 12px;
+  font-family: monospace;
+  text-align: center;
+  color: #010149;
+}
